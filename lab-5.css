@@ -1,7 +1,9 @@
+
 body {
     background-color: blueviolet;
     
 }
+
 header {
     background-color: coral;
     color : rgb(170, 140, 100);
@@ -19,3 +21,4 @@ main{
     width: auto;
     
 }
+
